@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.ts",
   "dependencies": {
-    "@edwardloopez/react-native-coachmark": "0.5.4",
+    "@edwardloopez/react-native-coachmark": "file:vendor/coachmark-with-fix.tgz",
     "@expo/metro-runtime": "~58.0.17",
     "expo": "~58.0.23",
     "expo-status-bar": "~58.0.4",
